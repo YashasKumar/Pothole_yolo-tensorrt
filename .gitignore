@@ -1,5 +1,5 @@
-/build/
-/env/
+build/
+env/
 best.pt
 best.engine
 best.onnx
